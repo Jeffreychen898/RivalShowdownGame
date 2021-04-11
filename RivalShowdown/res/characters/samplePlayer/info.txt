@@ -1,0 +1,18 @@
+#name
+Admin
+#walking frame count
+3
+#walking frame rate
+3
+#shooting frame count
+2
+#shooting frame rate
+5
+#speed
+6000
+#fire rate
+10
+#health
+120
+#attack
+50
